@@ -1,81 +1,75 @@
-# 🌿 AgriLanding - Plantilla Web para el Sector Agrícola
+# AgriLanding — Plantilla Web para el Sector Agrícola
 
-**AgriLanding** es una **reinterpretación personal** de una solución desarrollada originalmente en un entorno real de trabajo, pero reescrita y rediseñada desde cero para reflejar mejores prácticas técnicas, estéticas y estructurales.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![License](https://img.shields.io/github/license/ShadeC0der/Template-AgriLanding)
 
-Este proyecto representa mi crecimiento profesional, siendo una reimplementación mejorada de uno de mis primeros trabajos cuando comenzaba en el desarrollo web. A través de esta nueva versión, aplico los conocimientos y buenas prácticas adquiridas con la experiencia.
+Landing page pensada para empresas del sector agrícola. Construida intencionalmente con HTML y CSS puro para demostrar dominio de fundamentos web sin dependencia de frameworks.
 
----
+## Vista previa
 
-## 🎯 Alcance del Proyecto
+![Hero](screenshots/hero.png)
 
-Este repositorio contiene **únicamente la página principal (landing page)** desarrollada con tecnologías base (HTML y CSS) como demostración de competencias técnicas en estas tecnologías fundamentales.
-
-> **Nota**: En un entorno profesional y si tuviera que extender funcionalidades, este proyecto se desarrollaría utilizando frameworks modernos como Astro para optimizar el rendimiento y la mantenibilidad.
-
----
-
-## 🚀 Características
-
-- ✨ Diseño limpio y minimalista
-- 📱 100% responsive
-- 🎯 Estructura semántica y modular
-- 🧠 Proyecto Educativo
+| Por qué nosotros & Alianzas | Nosotros | Galería | Footer |
+|-----------------------------|----------|---------|--------|
+| ![Why us](screenshots/why-us-alliances.png) | ![About](screenshots/about.png) | ![Gallery](screenshots/gallery.png) | ![Footer](screenshots/footer.png) |
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🗂️ Estructura del proyecto
 
-- HTML5
-- CSS3
-
-**¿Por qué tecnologías base?**
-- 📚 Demostrar dominio de fundamentos web
-- 🎓 Evidenciar buenas prácticas sin frameworks
-- 💡 Mostrar capacidad de estructuración limpia del código
-
----
-
-## 🧪 Cómo usar
-
-1. Clona o descarga este repositorio.
-2. Abre `index.html` en tu navegador.
-3. Personaliza imágenes, textos y estilos desde la carpeta `assets/`.
-
----
-
-## 📝 Contexto del proyecto
-
-Esta plantilla fue construida como un **rework personal de un proyecto empresarial real**, cuyo código original estaba condicionado por decisiones externas. 
-
-AgriLanding representa:
-- 🔄 Una reinterpretación moderna del proyecto original
-- 📋 Un ejercicio de demostración técnica en HTML/CSS
-- 🎨 La implementación de mejores prácticas de diseño
-- 📱 Un enfoque en responsive design y accesibilidad
-
-> Este proyecto sirve como muestra de habilidades fundamentales en desarrollo web, aunque en un escenario real se implementaría con tecnologías más robustas como Astro.
+```
+Template-AgriLanding/
+├── index.html
+└── assets/
+    ├── css/
+    │   ├── base.css
+    │   ├── navbar.css
+    │   ├── hero.css
+    │   ├── why-us.css
+    │   ├── alliances.css
+    │   ├── us.css
+    │   ├── gallery.css
+    │   └── footer.css
+    ├── img/
+    │   ├── general/
+    │   ├── gallery/
+    │   ├── alliances/
+    │   └── us/
+    └── icons/
+```
 
 ---
 
-## 🔄 Evolución del Proyecto
+## ✨ Características
 
-**Versión Original (2023) (Propiedad de la empresa)**
-- 🌱 Primer acercamiento al desarrollo web
-- 📝 Código básico sin estructuración clara
-- 🎨 Diseño simple y limitado
+- Diseño responsive (mobile-first)
+- Secciones: Hero, Por qué nosotros, Alianzas, Nosotros, Galería
+- Navegación con iconos (Font Awesome)
+- CSS modular por sección
+- Estructura semántica con HTML5
 
-**Versión Actual (Proyecto independiente)**
-- 📚 Implementación de mejores prácticas
-- 🎯 Estructura modular y mantenible
-- 💡 Optimización de rendimiento y accesibilidad
-- 🎨 Diseño moderno y responsive
+---
 
-> Esta reinterpretación demuestra mi evolución como desarrollador y mi capacidad para mejorar soluciones existentes.
+## 🚀 Cómo usar
+
+1. Clona o descarga este repositorio:
+   ```bash
+   git clone https://github.com/ShadeC0der/Template-AgriLanding.git
+   ```
+2. Abre `index.html` en tu navegador — no requiere servidor ni dependencias.
+3. Personaliza textos e imágenes desde `assets/`.
+4. Adapta los estilos en `assets/css/` sección por sección.
+
+---
+
+## 🧾 Contexto
+
+Este proyecto es una reinterpretación independiente de un sitio real desarrollado en un entorno laboral ([Agrícola La Excelencia](https://agricolalaexcelencia.cl/)). El código original pertenece a la empresa; esta versión fue reescrita desde cero como ejercicio de mejora, aplicando prácticas aprendidas desde esa experiencia inicial.
 
 ---
 
 ## 🧠 Autor
 
-🧠 **ShadeC0der**  
-📝 Desarrollador web.
-🔗 [GitHub](https://github.com/ShadeC0der)
+**ShadeC0der**  
+[GitHub](https://github.com/ShadeC0der)
