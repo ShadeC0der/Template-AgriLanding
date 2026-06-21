@@ -73,5 +73,4 @@ Este proyecto es una reinterpretación independiente de un sitio real desarrolla
 
 ## Autor
 
-**ShadeC0der**  
-[GitHub](https://github.com/ShadeC0der)
+**[ShadeC0der](https://github.com/ShadeC0der)**
