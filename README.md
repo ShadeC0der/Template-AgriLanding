@@ -16,7 +16,7 @@ Landing page pensada para empresas del sector agrícola. Construida intencionalm
 
 ---
 
-## 🗂️ Estructura del proyecto
+## Estructura del proyecto
 
 ```
 Template-AgriLanding/
@@ -41,7 +41,7 @@ Template-AgriLanding/
 
 ---
 
-## ✨ Características
+## Características
 
 - Diseño responsive (mobile-first)
 - Secciones: Hero, Por qué nosotros, Alianzas, Nosotros, Galería
@@ -51,7 +51,7 @@ Template-AgriLanding/
 
 ---
 
-## 🚀 Cómo usar
+## Cómo usar
 
 1. Clona o descarga este repositorio:
    ```bash
@@ -63,13 +63,13 @@ Template-AgriLanding/
 
 ---
 
-## 🧾 Contexto
+## Contexto
 
 Este proyecto es una reinterpretación independiente de un sitio real desarrollado en un entorno laboral ([Agrícola La Excelencia](https://agricolalaexcelencia.cl/)). El código original pertenece a la empresa; esta versión fue reescrita desde cero como ejercicio de mejora, aplicando prácticas aprendidas desde esa experiencia inicial.
 
 ---
 
-## 🧠 Autor
+## Autor
 
 **ShadeC0der**  
 [GitHub](https://github.com/ShadeC0der)
